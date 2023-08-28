@@ -4,7 +4,7 @@ Table quickview
 
 <img width="1246" alt="Screenshot 2023-08-28 at 4 24 26 PM" src="https://github.com/hyuanz/ClinicsCali_Clean/assets/90592751/c5b87cb0-70f8-46c3-b263-b0b349f161e6">
 
-Page
+Pages
 
 <img width="534" alt="Screenshot 2023-08-28 at 4 24 32 PM" src="https://github.com/hyuanz/ClinicsCali_Clean/assets/90592751/b7389c5a-5d5e-4167-99d3-f8b0522df93d">
 
